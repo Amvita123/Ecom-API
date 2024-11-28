@@ -1,0 +1,55 @@
+# Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Django files
+media/
+
+# IDE files
+.vscode/
+.pycharm/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Virtual environment files
+venv/
+env/
+*.env
+/venv
+venv
+
+# Logs
+*.log
+
+# Migrations
+*/migrations/*.pyc
+
+# Static files
+static/
+
+# Node modules (if using npm or yarn)
+node_modules/
+
+# Coverage files
+coverage.xml
+.htmlcov/
+
+# Django debug toolbar files
+.debug-toolbar/
+
+db-1.sqlite3
+/db-1.sqlite3
+
+.env
+/.env
+
+
+db_test.sqlite3
+/db_test.sqlite3
+
+both api combine code
+
